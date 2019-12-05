@@ -1,6 +1,3 @@
 # web-notifications-demo
-wrwerwerwe
-werwerwe
+Let's Test Jira and Github Integration
 
-
-sfsdfsdfsd
